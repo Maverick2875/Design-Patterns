@@ -2,7 +2,7 @@
 
 
 /**
- * @author User
+ * @author AmanKhan
  * @version 2.3
  * 
  * The Shape interface defines a contract for classes representing geometric shapes.
