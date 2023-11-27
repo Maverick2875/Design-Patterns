@@ -5,7 +5,7 @@
  */
 
 /**
- * @author User
+ * @author AmanKhan
  * @version 2.2
  * The Rectangle class represents a geometric shape in the form of a rectangle.
  * It implements the Shape interface, providing a common structure for
