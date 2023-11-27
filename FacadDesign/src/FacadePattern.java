@@ -6,7 +6,7 @@
 /*
  *
  * 
- * @author User
+ * @author AmanKhan
  * @version 2.1
  * The FacadePattern class serves as an example of the Facade design pattern,
  * demonstrating the use of a simplified interface to interact with a system of
