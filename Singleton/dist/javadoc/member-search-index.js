@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SingleObject","l":"getInstance()"},{"p":"<Unnamed>","c":"SingletonDemo","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SingleObject","l":"showMessage()"},{"p":"<Unnamed>","c":"SingletonDemo","l":"SingletonDemo()","u":"%3Cinit%3E()"}];updateSearchResults();
