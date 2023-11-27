@@ -1,7 +1,7 @@
 
 
 /**
- * @author User
+ * @author AmanKhan
  * @version 2.0
  * The Circle class represents a geometric shape in the form of a circle.
  * It implements the Shape interface, providing a common structure for
