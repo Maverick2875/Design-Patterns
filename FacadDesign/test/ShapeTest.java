@@ -2,8 +2,9 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * 
- * @author User
+ * This class serves as a set of unit tests for the various shape classes (Circle, Rectangle, Square).
+ * It ensures that the drawing functionality of each shape produces the expected output.
+ * @author AmanKhan
  * @version 2.6
  * 
  * 
